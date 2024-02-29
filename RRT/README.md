@@ -24,5 +24,5 @@ This script sets up a sample environment with bounds and obstacles, then runs th
 - **Flexible Parameters**: Parameters such as goal sampling rate, extend length, and maximum iterations can be adjusted.
 
 ## Screenshots
-![RRT-50](result_50_rrt.png "RRT with 50 obstacles")
-![RRT-100](result_100_rrt.png "RRT with 100 obstacles")
+![RRT-50](./result_rrt/result_50_rrt.png "RRT with 50 obstacles")
+![RRT-100](./result_rrt/result_100_rrt.png "RRT with 100 obstacles")
